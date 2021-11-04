@@ -5,6 +5,8 @@
 My favorite interests currently are:
 
 <p>
+  <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/" target="_blank"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
+  <img alt="github actions" src="https://img.shields.io/badge/-KQL-3955a3?style=flat-square&logo=microsoft&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
