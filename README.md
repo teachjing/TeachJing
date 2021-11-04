@@ -4,11 +4,13 @@
 
 My favorite interests currently are:
 
+<p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
+</p>
 
 <br>Things I code with:
 <!-- https://simpleicons.org -->
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -18,13 +20,15 @@ My favorite interests currently are:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 <br>Clouds I play in 
 
+<p>
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-1a73e8?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-red?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-f48c13?style=flat-square&logo=amazon-aws&logoColor=black" />
-
+</p>
 
 <!--
 **teachjing/TeachJing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
