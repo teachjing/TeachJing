@@ -1,5 +1,9 @@
 <h2>Hi there, thanks for visiting my profile. 😛  </h2>
 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am a Senior Program Manager in Azure Security CxE at [Microsoft](https://www.microsoft.com) and I am a geek at heart 🤓. 
+
+I often post youtube videos around topics that interest me that could help others out and truly enjoy helping others 🤝!
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://youtube.com/teachjing" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?&style=flat&logo=youtube&logoColor=white" /></a> &nbsp;
