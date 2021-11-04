@@ -59,8 +59,9 @@ Check out my
 <a href="https://www.teachjing.com"><img style="display:inline-block;" src="https://shields.io/badge/Windows_11-themed desktop-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAhFBMVEUAAAD/wwf/wgdNrlFMrVIhl/L0RTT0RDX/wQf/wQYhlvNMr1AhlvP0Qzb/wQdMr1AhlvP0Qzb/wQdMr1AhlvP0Qzb0QzZMr1AhlvP/wQdMr1D0Qzb/wQdMr1AhlvP0Qzb/wQdMr1AhlvP0Qzb/wQdMr1AhlvP0Qzb/wQdMr1AhlvP0QzaTIB5QAAAAKHRSTlMACQkJCQkJCS8vLzAwMJWWlpaYmJiYmZq/wMDA19jY2Pj4+Pj+/v7+JTXhNwAAAa5JREFUeNrt0FdSQlEURNE2B0SCmFEyeH3zn58/fDEAsOqsPYHuWkmS/mi26o5cDmpHbvE16O2nr5933fE7NUBrbfN6kSQ3n11XE6C1j8skL11dgPaU9HeVATa9jLrKAG2QWW2Ar6xqAyzS1QZoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwH8EkCRJkiRJ9fo9UYc/fk4UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8B8BlrUB5vmuDTDNsDbAYx62lQHWt8mkMsA4ydVbXYD3syS5mmxrAqzH5/vx++H3shrAfPp4lyR/kvBx0lGSN3MAAAAASUVORK5CYII="/></a> themed desktop at <a href="https://www.teachjing.com">TeachJing.com</a> filled with all my favorite links 📌, playgrounds 🎉 , and demos. 💯🤗
 <br><br>
 <a href="https://www.teachjing.com"><img src="assets/images/teachjing_desktop_3.png"/></a>
+<br>
 
-Shoutouts to [blueedgetechno](https://github.com/blueedgetechno/win11React) for sharing his sweet🍨 source code with the community 🔥!
+Shoutouts to [blueedgetechno](https://github.com/blueedgetechno/win11React) for sharing his sweet🍨 source code with the community 🔥! If you want to make one yourself, Just fork his repo and deploy it! (React Javascript knowledge required)
 
 ## 🔔 My Latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/TeachJing?template=terminal&config.timezone=America%2FChicago)
