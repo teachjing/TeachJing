@@ -13,12 +13,13 @@ I often post youtube videos around topics that interest me that could help other
 <a href="https://www.linkedin.com/in/teachjing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;
 </p>
 
-<h3>My favorite interests currently are:</h3>
+<h3>My current interests currently are:</h3>
 
 <p>
-  <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
-  <img alt="KQL" src="https://img.shields.io/badge/-KQL-3955a3?style=flat-square&logo=microsoft&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<a href="https://jupyter.org/"><img alt="jupyter notebooks" src="https://img.shields.io/badge/Jupyter Notebooks-000000?style=flat-square&logo=bitcoin&logoColor=white" /></a>
+<a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
+<img alt="KQL" src="https://img.shields.io/badge/-KQL-3955a3?style=flat-square&logo=microsoft&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 <h3>Things I code/play with:</h3>
@@ -40,9 +41,11 @@ I often post youtube videos around topics that interest me that could help other
 </p>
 
 <h3>My favorite automation tools</h3>
+<p>
 <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <img alt="azure devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
+</p>
 
 <h3>Clouds I play in </h3>
 
