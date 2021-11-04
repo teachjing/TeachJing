@@ -1,4 +1,4 @@
-<h2>Hi there, thanks for visiting my profile. 😛  </h2><br>
+<h2>Hi there, thanks for visiting my profile. 😛  </h2>
 
 <h3>Where to find me</h3>
 <p>
