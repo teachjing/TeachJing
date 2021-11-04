@@ -63,6 +63,10 @@ Check out my
 
 Shoutouts to [blueedgetechno](https://github.com/blueedgetechno/win11React) for sharing sweet his source code with the community 🔥!
 
+## 🔔 My Latest Github Metrics
+![Metrics](https://metrics.lecoq.io/TeachJing?template=terminal&config.timezone=America%2FChicago)
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Teachjing.Teachjing&color=00df00)
 <!--
 Todo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachjing">
@@ -92,3 +96,4 @@ Badges - https://github.com/alexandresanlim/Badges4-README.md-Profile
 Badges - Shields.io
 
 >
+
