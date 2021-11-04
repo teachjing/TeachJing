@@ -6,7 +6,7 @@ I often post youtube videos around topics that interest me that could help other
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://www.teachjing.com"><img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp;
+<a href="https://www.teachjing.com"><img src="https://img.shields.io/badge/TeachJing.com-000000?style=flat&logo=About.me&logoColor=white"/></a>&nbsp;
 <a href="https://youtube.com/teachjing" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?&style=flat&logo=youtube&logoColor=white" /></a> &nbsp;
 <a href="https://github.com/teachjing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/teachjing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
