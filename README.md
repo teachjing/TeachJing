@@ -6,6 +6,7 @@
 <a href="https://github.com/teachjing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/teachjing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/teachjing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.teachjing.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/My Website-%2312100E.svg?&style=flat" /></a> 
 </p>
 
 <h3>My favorite interests currently are:</h3>
