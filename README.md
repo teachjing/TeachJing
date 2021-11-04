@@ -1,8 +1,4 @@
-![Youtube](https://img.shields.io/badge/TeachJing-red?logo=youtube&style=social)
-
-## Hi there, thanks for visiting my profile. 😛
-<br>
-
+<h2>Hi there, thanks for visiting my profile. 😛  </h2><br>
 <h3>My favorite interests currently are:</h3>
 
 <p>
