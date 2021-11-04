@@ -37,7 +37,6 @@
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-red?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-f48c13?style=flat-square&logo=amazon-aws&logoColor=black" />
 </p>
-<br>
 
 <h3>Since you're here...</h3>
 Check out my 
