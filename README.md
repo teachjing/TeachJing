@@ -67,8 +67,7 @@ Shoutouts to [blueedgetechno](https://github.com/blueedgetechno/win11React) for 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Teachjing.Teachjing&color=00df00)
 
 ## 🔔 My Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/TeachJing?template=terminal&config.timezone=America%2FChicago)
-
+![Metrics](https://metrics.lecoq.io/TeachJing?template=terminal&code=1&code.lines=12&code.load=100&code.visibility=public&config.timezone=America%2FChicago)
 
 <!--
 Todo
