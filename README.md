@@ -63,10 +63,13 @@ Check out my
 
 Shoutouts to [blueedgetechno](https://github.com/blueedgetechno/win11React) for sharing his sweet🍨 source code with the community 🔥! If you want to make one yourself, Just fork his repo and deploy it! (React Javascript knowledge required)
 
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Teachjing.Teachjing&color=00df00)
+
 ## 🔔 My Latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/TeachJing?template=terminal&config.timezone=America%2FChicago)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Teachjing.Teachjing&color=00df00)
+
 <!--
 Todo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teachjing">
