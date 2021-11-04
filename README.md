@@ -5,7 +5,7 @@
 My favorite interests currently are:
 
 <p>
-  <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/" target="_newtab"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
   <img alt="github actions" src="https://img.shields.io/badge/-KQL-3955a3?style=flat-square&logo=microsoft&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
@@ -30,6 +30,14 @@ My favorite interests currently are:
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-1a73e8?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-red?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-f48c13?style=flat-square&logo=amazon-aws&logoColor=black" />
+</p>
+
+<h3>Where to find me</h3>
+<p>
+<a href="https://youtube.com/teachjing" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?&style=flat&logo=youtube&logoColor=white" /></a> &nbsp;
+<a href="https://github.com/teachjing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a> &nbsp;
+<a href="https://twitter.com/teachjing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/teachjing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 <!--
