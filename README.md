@@ -6,7 +6,7 @@
 <a href="https://github.com/teachjing" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/teachjing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/teachjing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
-</p><br>
+</p>
 
 <h3>My favorite interests currently are:</h3>
 
@@ -14,7 +14,7 @@
   <a href="https://azure.microsoft.com/en-us/services/azure-sentinel/"><img alt="github actions" src="https://img.shields.io/badge/-Microsoft Sentinel-0078d7?style=flat-square&logo=microsoft&logoColor=white" /></a>
   <img alt="github actions" src="https://img.shields.io/badge/-KQL-3955a3?style=flat-square&logo=microsoft&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p><br>
+</p>
 
 <h3>Things I code with:</h3>
 <!-- https://simpleicons.org -->
@@ -28,7 +28,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p><br>
+</p>
 
 <h3>Clouds I play in </h3>
 
@@ -37,7 +37,7 @@
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-red?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-f48c13?style=flat-square&logo=amazon-aws&logoColor=black" />
 </p>
-<br><br>
+<br>
 
 <h3>Since you're here...</h3>
 Check out my 
